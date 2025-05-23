@@ -1,0 +1,77 @@
+nav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding: 30px;
+    
+}
+header {
+    background-image: linear-gradient(rgb(147,217,241),rgb(255, 255, 255));
+    font-weight: bold;
+    padding-bottom: 50px;
+}
+
+/* .body-contain {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    height: 400px;
+    background-image:url("beachpic.jpeg");
+    background-size: 100%;
+    border-radius: 20px;
+    margin-left: 50%;
+
+} */
+
+footer{
+    background-image: linear-gradient(rgb(255, 255, 255),rgb(147, 217, 241));
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    height: 150px;
+    /* padding-bottom: 20px; */
+}
+.cards {
+    display: flex;
+    
+}
+.card {
+    margin: 10px;
+}
+.main_topic {
+    color: rgb(3, 47, 134);
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size:45px;
+    text-align: center;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: gainsboro;/* dark semi-transparent */
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+/* Optional: Add white border or shadow to make them stand out */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  box-shadow: 0 0 5px #fff;
+}
+footer {
+  background-color: #f8f9fa;
+  color: #242424;
+}
+.about {
+     margin-left: 60px;
+    margin-right: 60px;
+    text-align: justify;
+}
+.contact {
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: justify;
+    margin: 20px;
+    margin-left: 40px;
+
+}
+.contain {
+    height: 100px;
+}
